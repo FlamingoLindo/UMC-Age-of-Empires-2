@@ -294,7 +294,7 @@ Após passar as colunas categoricas ('map', 'p1_civ', 'p2_civ') pelo encoding, r
 | **macro avg**| 0.51      | 0.51   | 0.51     | 666     |
 | **weighted avg** | 0.51   | 0.51   | 0.51     | 666     |
 
-![segunda matrix](assets\second_matrix.png)
+![segunda matrix](https://github.com/FlamingoLindo/UMC-Age-of-Empires-2/blob/Branch-VitorFerreira/assets/second_matrix.png)
 
 ### Permutação:
 
@@ -307,7 +307,7 @@ Após passar as colunas categoricas ('map', 'p1_civ', 'p2_civ') pelo encoding, r
     plt.title('Importância das Features via Permutação no dataset')
     plt.show()
 
-![segunda matrix](assets\permutation.png)
+![permutação](https://github.com/FlamingoLindo/UMC-Age-of-Empires-2/blob/Branch-VitorFerreira/assets/permutation.png)
 
 ### Análise das features e suas classificações:
 
