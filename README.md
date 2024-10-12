@@ -238,13 +238,13 @@ Após passar as colunas categoricas ('map', 'p1_civ', 'p2_civ') pelo encoding, r
     plt.show()
     print(classification_report(y_test, y_pred))
 
-![primeira matriz de confusão](assets\first_matrix.png)
+![primeira matriz de confusão](https://github.com/FlamingoLindo/UMC-Age-of-Empires-2/blob/Branch-VitorFerreira/assets/first_matrix.png)
 
 |              | precision | recall | f1-score | support |
 |--------------|------------|--------|----------|---------|
 | **0**        | 0.52       | 0.42   | 0.46     | 337     |
 | **1**        | 0.50       | 0.60   | 0.55     | 329     |
-|                                   
+|     ⠀        |      ⠀     |   ⠀    |   ⠀      |    ⠀    |
 | **accuracy** |            |        | 0.51     | 666     |
 | **macro avg**| 0.51       | 0.51   | 0.50     | 666     |
 | **weighted avg** | 0.51   | 0.51   | 0.50     | 666     |
